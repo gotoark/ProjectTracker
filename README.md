@@ -1,7 +1,7 @@
 # ProjectTracker
 A simple Project Tracker for My Own use.
 
-##Feaetures
+## Feaetures
  - Todo List
  - Track Daily Tasks
  - CR management
@@ -15,7 +15,7 @@ A simple Project Tracker for My Own use.
  - Offline/Online
  - Can be integrated with Other services like(Evernote,trello,Google Keep)
  
- ##Todo
+ ## Todo
  1. Get a Cofee
  2. Choose platforms
  3. Plan and Analyze the Problem
